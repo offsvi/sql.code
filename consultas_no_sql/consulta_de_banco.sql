@@ -1,3 +1,3 @@
 USE sakila 
 SELECT * FROM payment 
-WHERE first_name = 10 
+WHERE first_name and last_name = 10 
