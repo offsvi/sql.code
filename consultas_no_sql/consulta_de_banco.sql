@@ -1,4 +1,4 @@
 -- Fazendo uma consulta no banco de dados
 USE sakila 
 SELECT * FROM payment 
-WHERE first_name and last_name = 10 
+WHERE first_name and last_name =7 10 
