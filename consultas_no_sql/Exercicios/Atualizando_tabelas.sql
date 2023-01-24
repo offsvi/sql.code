@@ -7,4 +7,4 @@ WHERE payment_id = 1
 
 -- UPDATE esta pedindo para atualizar a tabela payment 
 -- SET seleciona a coluna amount 
--- WHERE seleciona a linha = 1 
+-- WHERE seleciona a linha = 1.
